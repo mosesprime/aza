@@ -1,0 +1,9 @@
+# reference: https://github.com/ziglang/zig/blob/master/.gitignore
+
+/build/
+/build-*/
+/debug/
+/docgen_tmp/
+/release/
+zig-cache/
+zig-out/
